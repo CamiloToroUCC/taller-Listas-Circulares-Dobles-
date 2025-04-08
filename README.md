@@ -46,3 +46,21 @@ El proyecto se compone de dos módulos principales:
    Abre una terminal y ejecuta:
    ```bash
     git init https://github.com/CamiloToroUCC/taller-Listas-Circulares-Dobles-.git
+   ```
+
+
+ 2. **Instalar dependencias**:
+ ```bash
+python -m pip install pygame
+
+ ```
+ 
+ 3. **Opcion de dependencias**:
+ ```bash
+py -m pip install pygame
+ ```
+ 
+ 4. **Ejecutar el proyecto: Una vez instalada la dependencia, ejecuta el archivo principal:**:
+ ```bash
+ python interactiveClock.py
+ ```
